@@ -14,7 +14,7 @@ Arduino Dog feeder for 2019 PNU CSE 1st Semester Project
 
 <strong>완성된 사진</strong>
   
-<img src="./readmeimg/design.jpg" width="500" height="300">
+<img src="./readmeimg/design.jpg" width="500" height="600">
 
 <strong>프로젝트 계획</strong>
 
