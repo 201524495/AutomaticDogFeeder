@@ -10,11 +10,11 @@ Arduino Dog feeder for 2019 PNU CSE 1st Semester Project
 ## 프로젝트 개요
 <strong>프로젝트 디자인</strong>
 
-![img](./readmeimg/ahnross.png){width : 500, height : 600}
+![img](./readmeimg/ahnross.png){: width : "500", height : "600"}
 
 <strong>완성된 사진</strong>
   
-![img](./readmeimg/design.jpg){: width:500, height:600}
+![img](./readmeimg/design.jpg){: width:"500", height:"600"}
 
 <strong>프로젝트 계획</strong>
 
