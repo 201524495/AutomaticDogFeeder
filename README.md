@@ -9,8 +9,11 @@ Arduino Dog feeder for 2019 PNU CSE 1st Semester Project
 
 ## 프로젝트 개요
 <strong>프로젝트 디자인</strong>
-<!-- ![img](./readmeimg/ahnross.png) -->
 
+![img](./readmeimg/ahnross.png)
+
+<strong>완성된 사진</strong>
+  
 ![img](./readmeimg/design.jpg)
 
 <strong>프로젝트 계획</strong>
@@ -28,12 +31,22 @@ Arduino Dog feeder for 2019 PNU CSE 1st Semester Project
 
 외부 프레임은 폼보드 사용
 
-소리감지센서로 개 짖는 소리 감지
++ 소리감지센서로 개 짖는 소리 감지
 
-녹음모듈을 통해 반려견 주인 목소리 녹음하여 개가 짖을 때 재생
+![img](./readmeimg/LMV324 Sound Detector Sensor.jpg)
 
-모터를 이용해 사료급여
++ 녹음모듈을 통해 반려견 주인 목소리 녹음하여 개가 짖을 때 재생
 
-RTC모듈을 이용하여 시각 표시
+![img](./readmeimg/SMG SZH-SDBJ-001.jpg)
 
-8옴 스피커를 통해 개가 싫어하는 주파수 재생
++ 모터를 이용해 사료급여
+
+![img](./readmeimg/TowerPro 서보모터 MG996R.jpg)
+
++ RTC모듈을 이용하여 시각 표시
+
+![img](./readimg/ds1307.jpg)
+
++ 8옴 스피커를 통해 개가 싫어하는 주파수 재생
+
+![img](./readimg/CLS0231MP-1.jpg)
