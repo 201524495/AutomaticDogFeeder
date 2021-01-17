@@ -45,8 +45,8 @@ Arduino Dog feeder for 2019 PNU CSE 1st Semester Project
 
 + RTC모듈을 이용하여 시각 표시
 
-![img](./readimg/ds1307.jpg)
+![img](./readmeimg/ds1307.jpg)
 
 + 8옴 스피커를 통해 개가 싫어하는 주파수 재생
 
-![img](./readimg/CLS0231MP-1.jpg)
+![img](./readmeimg/CLS0231MP-1.jpg)
